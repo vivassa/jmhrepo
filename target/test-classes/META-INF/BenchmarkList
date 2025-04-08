@@ -1,0 +1,2 @@
+JMH S 28 com.example.BenchmarkExample S 66 com.example.jmh_generated.BenchmarkExample_printHelloWorld_jmhTest S 15 printHelloWorld S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 19 com.example.AppTest S 57 com.example.jmh_generated.AppTest_printHelloWorld_jmhTest S 15 printHelloWorld S 11 AverageTime E A 1 1 1 E I 1 1 E E E E E E E E E E E E U 12 MILLISECONDS E E 

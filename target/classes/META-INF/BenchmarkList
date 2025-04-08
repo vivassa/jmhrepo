@@ -1,0 +1,4 @@
+JMH S 19 com.example.AppTest S 47 com.example.jmh_generated.AppTest_setup_jmhTest S 5 setup S 3 All E A 1 1 1 E I 1 1 E E I 1 1 T 3 1 s E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 19 com.example.AppTest S 57 com.example.jmh_generated.AppTest_sumUsingForEach_jmhTest S 15 sumUsingForEach S 3 All E A 1 1 1 E I 1 1 E E I 1 1 T 3 1 s E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 19 com.example.AppTest S 57 com.example.jmh_generated.AppTest_sumUsingForLoop_jmhTest S 15 sumUsingForLoop S 3 All E A 1 1 1 E I 1 1 E E I 1 1 T 3 1 s E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 19 com.example.AppTest S 57 com.example.jmh_generated.AppTest_sumUsingStreams_jmhTest S 15 sumUsingStreams S 3 All E A 1 1 1 E I 1 1 E E I 1 1 T 3 1 s E E E E E E E E U 12 MILLISECONDS E E 

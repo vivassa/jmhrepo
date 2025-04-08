@@ -1,0 +1,12 @@
+META-INF/CompilerHints
+com/example/jmh_generated/AppTest_jmhType_B3.class
+com/example/AppTest.class
+com/example/jmh_generated/AppTest_sumUsingForEach_jmhTest.class
+com/example/BenchmarkExample.class
+com/example/jmh_generated/AppTest_sumUsingForLoop_jmhTest.class
+META-INF/BenchmarkList
+com/example/jmh_generated/AppTest_setup_jmhTest.class
+com/example/jmh_generated/AppTest_jmhType.class
+com/example/jmh_generated/AppTest_jmhType_B1.class
+com/example/jmh_generated/AppTest_jmhType_B2.class
+com/example/jmh_generated/AppTest_sumUsingStreams_jmhTest.class
